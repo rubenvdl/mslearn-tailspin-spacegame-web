@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rubenvanderlaarse/tutorial-mslearn-setup%20devOps%20environment/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rubenvanderlaarse/tutorial-mslearn-setup%20devOps%20environment/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
